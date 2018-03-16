@@ -1,13 +1,22 @@
-font-family: 'Karla', sans-serif;
 
 h1{
-   font:30pt/1 Karla, bold, sans-serif;
+  font-family: 'Karla', sans-serif;
+  font: 30pt/1 Karla, bold, sans-serif;
+  color:white;
   }
 
 body {
-  font:20pt/1 Karla, sans-serif
-  background-color: #D9F0BD
+  font-family: 'Karla', sans-serif;
+  font: 20pt/1 Karla, sans-serif;
+  color:white;
+  background: linear-gradient(to left, #fff, pink)
   
   }
   
+/*a comment*/
+a{
+  color:#DA4AAC;
+}
+
+
  
